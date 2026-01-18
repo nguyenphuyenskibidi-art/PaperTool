@@ -1,4 +1,4 @@
-# 📄 PaperTool
+#  PaperTool
 
 **PaperTool** là một giải pháp phần mềm chuyên dụng nhằm tối ưu hóa quy trình **chuyển đổi, phân tích và quản lý tệp PDF**, tập trung vào **độ chính xác định dạng**, **hiệu suất cao** và **tính ổn định**.
 
@@ -6,35 +6,35 @@ Công cụ được phát triển độc lập, hướng đến người dùng k
 
 ---
 
-## 🚀 Tính năng cốt lõi
+##  Tính năng cốt lõi
 
-### ⚡ Chuyển đổi hiệu suất cao
+###  Chuyển đổi hiệu suất cao
 - Chuyển đổi **PDF → PowerPoint (.pptx)** với tốc độ xử lý nhanh  
 - Duy trì bố cục gốc, hạn chế sai lệch nội dung khi trình chiếu  
 
-### 🖼️ Render High-DPI (300 DPI)
+###  Render High-DPI (300 DPI)
 - Áp dụng **Matrix 3×3** để render hình ảnh chất lượng cao  
 - Khắc phục triệt để lỗi **vỡ font, lệch font, font lạ**  
 - Đảm bảo hình ảnh sắc nét khi trình chiếu trên màn hình lớn  
 
-### 📊 Phân tích cấu trúc tài liệu PDF
+###  Phân tích cấu trúc tài liệu PDF
 - Thống kê chi tiết trên từng trang:
   - Số lượng từ
   - Số dòng văn bản
   - Số đối tượng hình ảnh
 
-### 🗂️ Quản lý PDF tích hợp
+###  Quản lý PDF tích hợp
 - Ghép nhiều PDF thành một tệp duy nhất  
 - Tách trang PDF theo nhu cầu  
 - Thiết lập **mật khẩu bảo mật** với chuẩn mã hóa  
 
-### 🌐 Giao diện đa ngôn ngữ (CLI)
+###  Giao diện đa ngôn ngữ (CLI)
 - Hỗ trợ **Tiếng Việt 🇻🇳** và **Tiếng Anh 🇬🇧**  
 - Điều khiển hoàn toàn qua **Command Line Interface**
 
 ---
 
-## 🧰 Hướng dẫn vận hành
+##  Hướng dẫn vận hành
 
 PaperTool được đóng gói dưới dạng **tệp thực thi độc lập (.exe)**.
 
