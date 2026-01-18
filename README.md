@@ -2,7 +2,7 @@
 
 **PaperTool** là một giải pháp phần mềm chuyên dụng nhằm tối ưu hóa quy trình **chuyển đổi, phân tích và quản lý tệp PDF**, tập trung vào **độ chính xác định dạng**, **hiệu suất cao** và **tính ổn định**.
 
-Công cụ được phát triển độc lập, hướng đến người dùng kỹ thuật lẫn người dùng phổ thông cần xử lý PDF chuyên sâu trên Windows.
+Công cụ được phát triển độc lập, do chính tôi, sau khi thấy người bạn tôi gặp khó khăn trong việc chuyển file :V.
 
 ---
 
